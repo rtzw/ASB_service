@@ -7,4 +7,4 @@ Serwis odpowiedzialny za zapis oraz agregację danych z postgreSQL.\
 <b>/card/isCardAuthorized</b> - sprawdzanie czy karta RFID istnieje w bazie danych\
 <b>/getEsp</b> - zwraca informację na temat ESP32\
 <b>/changeStatus</b> - zmienia dane dotyczące ESP32\
-<b>/getAllEsps</b> - zwraca listę wszystkich ESP32\
+<b>/getAllEsps</b> - zwraca listę wszystkich ESP32
