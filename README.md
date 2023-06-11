@@ -1,5 +1,5 @@
 # ASB_service
-Serwis odpowiedzialny za zapis oraz agregację danych z postgreSQL.\
+Serwis odpowiedzialny za zapis oraz agregację danych z postgreSQL.
 # Endpointy
 <b>/esp/addEsp</b> - dodawanie nowego ESP32\
 <b>/esp/removeEsp</b> - usuwanie istniejącego ESP32\
